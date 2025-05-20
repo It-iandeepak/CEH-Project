@@ -2,10 +2,10 @@
 This project simulates real-world network attacks and defense strategies using Kali Linux as the attacker machine and Metasploitable as the target. It includes scanning, enumeration, exploitation, password cracking, and remediation — all performed in a controlled lab environment for ethical learning purposes.
 
 🎯 Objectives
-Understand and simulate real-world network attacks
+<Understand and simulate real-world network attacks
 Perform scanning, enumeration, and exploitation using tools like Nmap and Metasploit
 Crack Linux password hashes using John the Ripper
-Identify outdated services and recommend security remediations
+Identify outdated services and recommend security remediations>
 💻 Lab Setup
 🖥️ Operating Systems
 Kali Linux – Attacker Machine
